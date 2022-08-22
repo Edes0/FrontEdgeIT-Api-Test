@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.idea",
+    "\\.idea\\.idea.dotnet-api-test.dir",
+    "\\.idea\\.idea.dotnet-api-test.dir\\.idea"
   ],
-  "SelectedNode": "\\.idea",
   "PreviewInSolutionExplorer": false
 }
